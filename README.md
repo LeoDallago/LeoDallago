@@ -8,7 +8,7 @@ I'm looking for my first job in the area and I've had experience in other sector
 -->
 - 🔭  `React` `NodeJS` `MongoDB`  `SQL`  `NextJS`.
 - 🌱 `C#` 
-- 📫 leodallago@outlook.com / https://www.linkedin.com/in/leonardo-dallago-a28150272/
+- 📫 leodallago@outlook.com
 - 😄 he/him
 - ⚡ Fun fact: Capybara top speed is 35km/h
 
