@@ -7,7 +7,7 @@
 I'm looking for my first job in the area and I've had experience in other sectors, I'm a person who has ease with communication and group interaction, and I'm always willing to learn something new every day, and as we know, you can never have too much knowledge.
 -->
 - 🔭  `React` `NodeJS` `MongoDB`  `SQL`  `NextJS`.
-- 🌱 `C#` 
+- 🌱 `C#` `.NET` 
 - 📫 leodallago@outlook.com
 - 😄 he/him
 - ⚡ Fun fact: Capybara top speed is 35km/h
